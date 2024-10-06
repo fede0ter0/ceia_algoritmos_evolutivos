@@ -37,14 +37,14 @@ cd ceia_algoritmos_evolutivos
 
 ## Contenido
 
-### [Desafio 1: Algoritmos Genéticos](TP 1/TP1.ipynb)
+### [Desafio 1: Algoritmos Genéticos](TP\ 1/TP1.ipynb)
 
 Se usan los algoritmos genéticos para optimizar diferentes funciones en una y dos dimensiones.
 
-### [Desafio 2: Optimización por Enjambre de Partículas](TP 2/TP2.ipynb)
+### [Desafio 2: Optimización por Enjambre de Partículas](TP\ 2/TP2.ipynb)
 
 Se usa el algoritmo PSO para optimizar diferentes funciones de complejidad alta en una y dos dimensiones.
 
-### [Desafio 3: PSO con restricciones](TP 3/TP3.ipynb)
+### [Desafio 3: PSO con restricciones](TP\ 3/TP3.ipynb)
 
 Se usan variantes del algoritmo PSO para optimizar diferentes funciones de complejidad alta en una y dos dimensiones con restricciones.
