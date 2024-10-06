@@ -15,11 +15,11 @@
 
 ## Introducción
 
-Este repositorio contiene una serie de dasfíos propuestos durante el curso de Algoritmos Evolutivos de la Carrera de Especialización en Inteligencia Artificial.
+Este repositorio contiene una serie de desafíos propuestos durante el curso de Algoritmos Evolutivos de la Carrera de Especialización en Inteligencia Artificial.
 
-Los desafíos muestran cómo solucionar dferentes problemas de optimización con algoritmos evolutivos como los algoritmos genéticos y el *Particle Swarm Optimization* (PSO). 
+Los desafíos muestran cómo solucionar dferentes problemas de optimización con algoritmos evolutivos, como los algoritmos genéticos (con selección por torneo, ruleta y ranking) y el *Particle Swarm Optimization* (PSO). 
 
-Cada desafío fue solucionado usando Jupyter Notebooks.
+Cada ejercicio fue resuelto usando Jupyter Notebooks.
 
 ## ¿Cómo usar los notebooks?
 
